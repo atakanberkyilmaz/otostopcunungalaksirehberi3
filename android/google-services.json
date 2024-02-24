@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832557440851",
+    "project_id": "otostopcunungalaksirehbe-7758e",
+    "storage_bucket": "otostopcunungalaksirehbe-7758e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832557440851:android:6177c8454c57bab97e8ba6",
+        "android_client_info": {
+          "package_name": "otostopcunun.galaksirehberi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPxff9blgCnJuIf9r4HiI-g2_HUrUQAyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
